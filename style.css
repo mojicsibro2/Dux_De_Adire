@@ -425,7 +425,7 @@ footer{
         display: flex;
         flex-direction: column;
         align-items: center;
-        height: 75vh;
+        height: 80vh;
     }
     .productIng{
         width: 80%;
@@ -462,7 +462,7 @@ footer{
         padding: 20px;
         width: 90%;
     }
-    .footerRight{
+    .footerRight{ 
         padding: 20px;
         width: 90%;
         align-items: center;
